@@ -4,9 +4,6 @@
 </a>
 <h1 align="center">Hi 👋, I'm Rafael Pereira</h1>
 
-
-- 👨‍💻 All of my projects are available at [my repos](my repos)
-
 - 📫 How to reach me **rafaelpereira0808@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

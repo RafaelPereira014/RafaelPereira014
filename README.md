@@ -1,10 +1,11 @@
+<h1 align="center">Hi 👋, I'm Rafael Pereira</h1>
+
+- 📫 How to reach me **rafaelpereira0808@gmail.com**
+
 <a href="https://github.com/RafaelPereira014">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RafaelPereira014&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RafaelPereira014&theme=tokyonight&layout=compact" />
 </a>
-<h1 align="center">Hi 👋, I'm Rafael Pereira</h1>
-
-- 📫 How to reach me **rafaelpereira0808@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

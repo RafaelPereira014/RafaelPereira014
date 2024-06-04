@@ -77,12 +77,4 @@
 - 🚧 **Visit my repos**: All my personal and group projects are present on my GitHub repos.
 
 
-## Get in Touch
-<p align="center">
-  <a href="mailto:rafaelpereira0808@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rafaelpereira0808%40gmail.com-informational?style=flat&logo=gmail&color=red" />
-  </a>
-  <a href="https://github.com/RafaelPereira014">
-    <img src="https://img.shields.io/badge/GitHub-RafaelPereira014-informational?style=flat&logo=github&color=black" />
-  </a>
-</p>
+

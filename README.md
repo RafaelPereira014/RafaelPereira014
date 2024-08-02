@@ -6,7 +6,11 @@
   <a href="https://github.com/RafaelPereira014">
     <img src="https://img.shields.io/badge/GitHub-RafaelPereira014-informational?style=flat&logo=github&color=black" />
   </a>
+  <a href="[https://www.linkedin.com/in/rafaelpereira](https://www.linkedin.com/in/rafael-pereira-036011291/)">
+    <img src="https://img.shields.io/badge/LinkedIn-RafaelPereira-blue?style=flat&logo=linkedin&color=blue" />
+  </a>
 </p>
+
 
 ## About Me
 - 🌟 Enthusiastic software developer with a passion for creating innovative solutions.

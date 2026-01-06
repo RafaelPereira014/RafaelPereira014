@@ -3,6 +3,12 @@
   <a href="mailto:rafaelpereira0808@gmail.com">
     <img src="https://img.shields.io/badge/Email-rafaelpereira0808%40gmail.com-informational?style=flat&logo=gmail&color=red" />
   </a>
+  <a href="https://www.linkedin.com/in/rafael-pereira-014/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Rafael%20Pereira-blue?style=flat&logo=linkedin&logoColor=white"
+      alt="LinkedIn - Rafael Pereira"
+    />
+  </a>
   <a href="https://github.com/RafaelPereira014">
     <img src="https://img.shields.io/badge/GitHub-RafaelPereira014-informational?style=flat&logo=github&color=black" />
   </a>
